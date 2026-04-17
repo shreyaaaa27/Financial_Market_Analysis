@@ -1,3 +1,20 @@
+# Virtual environment
+venv/
+
+# Python cache
 __pycache__/
 *.pyc
-.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model files
+*.h5
+*.keras
